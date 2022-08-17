@@ -20,7 +20,7 @@ object Form1: TForm1
     Height = 73
     TabOrder = 0
     object Label1: TLabel
-      Left = 120
+      Left = 112
       Top = 40
       Width = 109
       Height = 29
@@ -182,7 +182,7 @@ object Form1: TForm1
     Top = 320
     Width = 41
     Height = 41
-    Caption = ':)'
+    Caption = #213
     TabOrder = 19
   end
 end
